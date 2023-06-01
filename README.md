@@ -6,5 +6,6 @@ npm i
 ```
 Run Graph QL Server
 ```bash
-npm start
+npm start / npm run start
+
 ```
