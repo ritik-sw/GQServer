@@ -71,5 +71,5 @@ const server = new ApolloServer({ typeDefs, resolvers });
 
 // Start listening for requests
 server.listen().then(({ url }) => {
-  console.log(`🚀 Server ready at ${url}`);
+  console.log(`🚀 Server ready at this port ${url}`);
 });
